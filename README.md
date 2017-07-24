@@ -27,42 +27,42 @@ function Forces() {}
  *
  * Get position of object
  */
-Forces.prototype.getPos = function()
+Forces.prototype.getPos = function() {}
 
 /**
  * getVel 
  *
  * Get velocity of object
  */
-Forces.prototype.getVel = function()
+Forces.prototype.getVel = function() {}
 
 /**
  * getAcc 
  *
  * Get acceleration of object
  */
-Forces.prototype.getAcc = function()
+Forces.prototype.getAcc = function() {}
 
 /**
  * setPos 
  *
  * Set position of object
  */
-Forces.prototype.setPos = function(x, y)
+Forces.prototype.setPos = function(x, y) {}
 
 /**
  * setVel 
  *
  * Set velocity of object
  */
-Forces.prototype.setVel = function(x, y)
+Forces.prototype.setVel = function(x, y) {}
 
 /**
  * setAcc 
  *
  * Set acceleration of object
  */
-Forces.prototype.setAcc = function(x, y)
+Forces.prototype.setAcc = function(x, y) {}
 
 /**
  * setGlobalForce 
@@ -70,28 +70,28 @@ Forces.prototype.setAcc = function(x, y)
  * Set a global force to the object.
  * This force will act on the object for every frame.
  */
-Forces.prototype.setGlobalForce = function(x, y)
+Forces.prototype.setGlobalForce = function(x, y) {}
 
 /**
  * applyForce 
  *
  * Apply a force to the object
  */
-Forces.prototype.applyForce = function(x, y)
+Forces.prototype.applyForce = function(x, y) {}
 
 /**
  * update 
  *
  * Main frame by frame updating
  */
-Forces.prototype.update = function()
+Forces.prototype.update = function() {}
 
 /**
  * edges 
  *
  * Prevent the object from leaving the screen
  */
-Forces.prototype.edges = function()
+Forces.prototype.edges = function() {}
 
 /**
  * edges_bounce 
@@ -99,7 +99,7 @@ Forces.prototype.edges = function()
  * Prvent the object from leaving the screen
  * Bounce the object back into view
  */
-Forces.prototype.edges_bounce = function()
+Forces.prototype.edges_bounce = function() {}
 
 /**
  * edges_wrap
@@ -107,5 +107,5 @@ Forces.prototype.edges_bounce = function()
  * Prevent the object from leaving the screen
  * Object wraps around to other side of window
  */
-Forces.prototype.edges_wrap = function()
+Forces.prototype.edges_wrap = function() {}
 ```
