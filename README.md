@@ -19,8 +19,8 @@ function Ball(x, y) {
  *
  * This object holds the mechanical interactions of an object.
  */
-function Forces(x, y)
-function Forces()
+function Forces(x, y) {}
+function Forces() {}
 
 /**
  * getPos 
