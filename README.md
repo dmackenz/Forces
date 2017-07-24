@@ -5,13 +5,13 @@ https://dmackenz.github.io/Forces/
 This is a force engine built in p5.js. Simply add this object to a preexisting class and forces can be applied to that object.
 
 ### Usage
-```JavaScript
+```javascript
 function Ball(x, y) {
     // add mechanics to ball
     this.forces = new Forces(x, y);
 }
 ```
-```JavaScript
+```javascript
 // ball object
 var b;
 
@@ -51,7 +51,7 @@ function draw() {
 ```
 
 ### API
-```JavaScript
+```javascript
 /**
  * Forces
  *
