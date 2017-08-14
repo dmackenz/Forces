@@ -50,7 +50,7 @@ function draw() {
 }
 ```
 
-### API
+### Interface
 ```javascript
 /**
  * Forces
