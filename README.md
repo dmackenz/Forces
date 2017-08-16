@@ -2,7 +2,7 @@
 
 https://dmackenz.github.io/Forces/
 
-This is a modular physics engine built in p5.js. Simply add this object to a preexisting class and forces can be applied to that object.
+This is a modular physics engine built in p5.js. Simply add this object to a preexisting class and forces can be applied to that object within an HTML5 canvas.
 
 ### Usage
 ```javascript
