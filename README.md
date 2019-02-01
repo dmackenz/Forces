@@ -134,7 +134,7 @@ Forces.prototype.edges = function() {}
 /**
  * edges_bounce 
  *
- * Prvent the object from leaving the screen
+ * Prevent the object from leaving the screen
  * Bounce the object back into view
  */
 Forces.prototype.edges_bounce = function() {}
